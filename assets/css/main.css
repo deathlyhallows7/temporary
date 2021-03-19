@@ -161,7 +161,8 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			/*color: inherit;*/
+      color: #454545;
 			text-decoration: none;
 		}
 
@@ -1134,8 +1135,8 @@
 					left: 0;
 					width: 100%;
 					height: 100%;
-					background-color: rgba(0, 0, 0, 0.25);
-					background-image: url("images/overlay.png");
+					/*background-color: rgba(0, 0, 0, 0.25);*/
+					/*background-image: url("images/overlay.png");*/
 				}
 
 			.item header:hover a {
@@ -1318,7 +1319,8 @@
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			//color: #ffffff;
+      color: #454545;
 		}
 
 		#header blockquote {
@@ -1342,8 +1344,8 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: rgba(0, 0, 0, 0.25);
-			background-image: url("images/overlay.png");
+			/*background-color: rgba(0, 0, 0, 0.25);*/
+			/*background-image: url("images/overlay.png");*/
 		}
 
 		#header h1 {
